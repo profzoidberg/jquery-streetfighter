@@ -33,8 +33,6 @@ $(document).ready(function() {
 	})
 	$(document).keyup(function(e){
 		if (e.keyCode == "88") {
-		$('.ryu-still').show();
-		$('.ryu-ready').show();
 		$('.ryu-cool').hide();
 		}
 	});
