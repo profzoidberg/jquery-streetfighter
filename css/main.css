@@ -52,7 +52,6 @@ body {
 .text {
 	box-sizing: border-box;
 	font-family:'Rock Salt', cursive;
-	display: inline-block;
 	margin-left: 45px;
 	padding: 15px;
 }
