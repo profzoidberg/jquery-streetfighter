@@ -51,13 +51,16 @@ body {
 /* Text and Instructions */
 .text {
 	box-sizing: border-box;
-	float: left;
-	margin-top: 50px;
 	font-family:'Rock Salt', cursive;
+	display: inline-block;
+	margin-left: 45px;
+	padding: 15px;
 }
 .text p {
 	font-size: 15px;
 }
-.text h2 {
+.text h1 {
 	text-shadow: 2px 2px lightgrey;
+	font-size: 3em;
+	text-align: center;
 }
