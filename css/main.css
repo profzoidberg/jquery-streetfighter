@@ -50,10 +50,8 @@ body {
 }
 /* Text and Instructions */
 .text {
-	box-sizing: border-box;
 	font-family:'Rock Salt', cursive;
-	margin-left: 45px;
-	padding: 15px;
+	padding: 15px 0;
 }
 .text p {
 	font-size: 15px;
